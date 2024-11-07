@@ -34,7 +34,9 @@ Root Mean squered Log Error (RMSLE), показывает вычисленный
 
 ### Краткая информация о данных
 
-[Данные](https://drive.google.com/drive/folders/1J6rbtpvFTBgKOm5OWxB4O4zcnPXgcUFd?usp=sharing "Если ссылка недоступна, прошу писать на личную почту").
+[Данные](https://drive.google.com/drive/folders/1J6rbtpvFTBgKOm5OWxB4O4zcnPXgcUFd?usp=sharing "Если ссылка недоступна, прошу писать на личную почту").  
+
+
 Данные о клиенте и таксопарке:
 
 id — уникальный идентификатор поездки;
